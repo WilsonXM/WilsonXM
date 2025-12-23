@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-![](https://raw.githubusercontent.com/WilsonXM/GithubStats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/WilsonXM/GithubStats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/WilsonXM/GithubStats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/WilsonXM/GithubStats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/WilsonXM/Github-Status/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/WilsonXM/Github-Status/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/WilsonXM/Github-Status/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/WilsonXM/Github-Status/master/generated/languages.svg#gh-light-mode-only)
 
